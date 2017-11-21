@@ -36,7 +36,7 @@
   ],
   "dependencies": [
     {
-      "name": "badgerious/windows_env",
+      "name": "puppet/windows_env",
       "version_requirement": ">= 2.0.2"
     },
     {
